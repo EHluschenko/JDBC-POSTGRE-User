@@ -5,6 +5,7 @@ target/
 
 src/main/resources/db/jdbc.properties
 
+.idea/
 ### IntelliJ IDEA ###
 .idea/modules.xml
 .idea/jarRepositories.xml
